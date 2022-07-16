@@ -1,5 +1,6 @@
-###Hi there 👋 I'm Rithika S
-#Information Technology Student & a Frontend Developer
+# Hi there 👋 I'm Rithika S
+
+### Information Technology Student & a Frontend Developer
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Web Development related projects
