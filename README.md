@@ -9,9 +9,9 @@
 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rithikasingaravelan&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rithikasingaravelan&count_private=true&theme=dark&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasingaravelan&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasingaravelan&langs_count=5&theme=dark)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan&theme=dark)](https://git.io/streak-stats)
 
