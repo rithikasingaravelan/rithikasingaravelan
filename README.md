@@ -13,6 +13,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasingaravelan&langs_count=5&theme=tokyonight)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan&theme=dark)](https://git.io/streak-stats)
 
 
