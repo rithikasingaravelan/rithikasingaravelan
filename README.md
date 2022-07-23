@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rithika S
+<h1> Hi there 👋 I'm Rithika S</h1>
 
 ### Information Technology Student & a Frontend Developer
 
