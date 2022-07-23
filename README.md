@@ -1,6 +1,7 @@
-<h1> Hi there 👋 I'm Rithika S</h1>
 
-### Information Technology Student & a Frontend Developer
+ <h1> Hi there 👋 I'm Rithika S</h1>
+
+<h3> Information Technology Student & a Frontend Developer</h3>
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on Web Development related projects
@@ -15,5 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasingaravelan&langs_count=5">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan">
-
-
+ 
