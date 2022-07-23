@@ -9,11 +9,11 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=rithikasingaravelan&count_private=true&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api/?username=rithikasingaravelan&count_private=true&showicons=true" style="background:#e2e2e2;">
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasingaravelan&langs_count=5">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan)](https://git.io/streak-stats>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rithikasingaravelan)](https://git.io/streak-stats">
 
 
