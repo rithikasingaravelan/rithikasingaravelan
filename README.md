@@ -8,7 +8,7 @@
 - 📫 How to reach me: rithika.it20@bitsathy.ac.in
 - ⚡ Fun fact: I like cooking 🍽👩🏻‍🍳 and listening to music🎵
 
-Languages and Tools:
+<h3>Languages and Tools:</h3>
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,c,mysql)](https://skills.thijs.gg)
 
 
