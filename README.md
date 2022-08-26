@@ -8,7 +8,8 @@
 - 📫 How to reach me: rithika.it20@bitsathy.ac.in
 - ⚡ Fun fact: I like cooking 🍽👩🏻‍🍳 and listening to music🎵
 <h4>Languages and Tools:</h4>
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,c,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=rithikasingaravelan&count_private=true&showicons=true" style="background:#e2e2e2;">
