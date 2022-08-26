@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web Development related projects
 - 📫 How to reach me: rithika.it20@bitsathy.ac.in
 - ⚡ Fun fact: I like cooking 🍽👩🏻‍🍳 and listening to music🎵
-<h4>Languages and Tools:</h4>
+
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 
